@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../kendono"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../practice"
+		},
+		{
+			"path": "../package"
+		},
+		{
+			"path": "../release"
+		},
+		{
+			"path": "../website"
+		},
+	],
+	"settings": {}
+}
