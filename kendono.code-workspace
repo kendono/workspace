@@ -1,22 +1,22 @@
 {
 	"folders": [
 		{
-			"path": "../kendono"
+			"path": "../1_kendono"
 		},
 		{
 			"path": "."
 		},
 		{
-			"path": "../practice"
+			"path": "../3_practice"
 		},
 		{
-			"path": "../package"
+			"path": "../4_package"
 		},
 		{
-			"path": "../release"
+			"path": "../5_release"
 		},
 		{
-			"path": "../website"
+			"path": "../6_website"
 		},
 	],
 	"settings": {}
