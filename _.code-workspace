@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../kendono"
+		},
+		{
+			"path": "../obsidian"
+		},
+		{
+			"path": "../website"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../projects"
+		},
+		{
+			"path": "../snippets"
+		},
+	],
+	"settings": {}
+}
